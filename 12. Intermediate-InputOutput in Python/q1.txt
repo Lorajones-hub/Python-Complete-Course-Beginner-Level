@@ -1,3 +1,0 @@
-Hello! this is a file
-First sentence in file
-Second sentence in file
